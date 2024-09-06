@@ -1,0 +1,6 @@
+name: libplaceholder
+version: 1.0.0
+antigen: aiptu\libplaceholder
+php:
+ - 8.0
+author: AIPTU
